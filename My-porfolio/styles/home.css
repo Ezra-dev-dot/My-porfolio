@@ -17,3 +17,10 @@ a{
 li a :hover{
     background-color: aqua;
 }
+.div-1{
+    width: 30px;
+}
+div{
+    display: flex;
+    list-style-type: none;
+}

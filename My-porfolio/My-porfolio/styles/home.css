@@ -1,0 +1,26 @@
+.nav-links{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:darkgray
+}
+li{
+    float: right;
+}
+a{
+    display: block;
+    padding: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+li a :hover{
+    background-color: aqua;
+}
+.div-1{
+    width: 30px;
+}
+div{
+    display: flex;
+    list-style-type: none;
+}
